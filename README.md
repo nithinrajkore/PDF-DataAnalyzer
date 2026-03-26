@@ -32,7 +32,7 @@ Project UI:
 ### 1. Clone the Repository
 
 ```bash
-git clone git@github.com:Srikanth-Banda/PDF-Data-Analyzer.git
+git clone git@github.com:nithinrajkore/PDFAnalyzer.git
 cd PDF-Data-Analyzer
 ```
 
